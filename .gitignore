@@ -22,10 +22,10 @@ yarn-debug.log*
 yarn-error.log*
 
 # Dados elixir
-/_build
-/cover
-/deps
-/doc
+**/_build
+**/cover
+**/deps
+**/doc
 /.fetch
 erl_crash.dump
 *.ez
